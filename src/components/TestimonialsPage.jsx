@@ -74,7 +74,7 @@ export const TestimonialsPage = () => {
           onClick={rotatePrev}
           aria-label="Previous testimonials"
         >
-          ^
+          <span>^</span>
         </button>
 
         <div className="testimonials__list">
@@ -116,7 +116,7 @@ export const TestimonialsPage = () => {
           onClick={rotateNext}
           aria-label="Next testimonials"
         >
-          ^
+          <span>^</span>
         </button>
       </div>
     </section>

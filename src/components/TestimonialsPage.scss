@@ -40,10 +40,16 @@
 
     &--prev {
       transform: rotate(-90deg);
+      span {
+        transform: translateY(7px);
+      }
     }
 
     &--next {
       transform: rotate(90deg);
+      span {
+        transform: translateY(7px);
+      }
     }
   }
 
