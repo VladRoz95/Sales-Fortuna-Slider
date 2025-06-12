@@ -3,23 +3,23 @@ import "./TestimonialsPage.scss";
 
 const testimonials = [
   {
-    logo: "/images/SereneLovongLogo.png",
+    logo: "/Sales-Fortuna-Slider/images/SereneLovongLogo.png",
     text: "Sales Fortuna made managing sales easier and helped us focus on customers. Its tools have been crucial for our growth and client satisfaction.",
-    personPhoto: "/images/Ethan Morgan.png",
+    personPhoto: "/Sales-Fortuna-Slider/images/Ethan Morgan.png",
     personName: "Ethan Morgan",
     position: "Founder and CEO, Serene Living Products",
   },
   {
-    logo: "/images/Starlight Creations Logo.png",
+    logo: "/Sales-Fortuna-Slider/images/Starlight Creations Logo.png",
     text: "Sales Fortuna has made sales so much easier for us. It saves time, simplifies the whole process, and helps us land more deals without extra hassle.",
-    personPhoto: "/images/Olivia Hayes.png",
+    personPhoto: "/Sales-Fortuna-Slider/images/Olivia Hayes.png",
     personName: "Olivia Hayes",
     position: "Owner, Starlight Creations",
   },
   {
-    logo: "/images/Opulent Living Group Logo.png",
+    logo: "/Sales-Fortuna-Slider/images/Opulent Living Group Logo.png",
     text: "Sales Fortuna has simplified our lead generation, helping us attract qualified prospects effortlessly and drive consistent growth.",
-    personPhoto: "/images/Alexander Reed.png",
+    personPhoto: "/Sales-Fortuna-Slider/images/Alexander Reed.png",
     personName: "Alexander Reed",
     position: "Co-Founder, Opulent Living Group",
   },
