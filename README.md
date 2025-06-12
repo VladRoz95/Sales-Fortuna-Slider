@@ -15,4 +15,4 @@ A responsive testimonial carousel built with React and SCSS, based on a Figma de
 - SCSS Modules
 - JavaScript (ES6+)
 
-DEMO Link (https://VladRoz95.github.io/Sales-Fortuna-Slider/)
+DEMO Link (https://VladRoz95.github.io/Sales-Fortuna-Slider)
