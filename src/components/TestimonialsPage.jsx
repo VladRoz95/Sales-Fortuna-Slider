@@ -3,23 +3,23 @@ import "./TestimonialsPage.scss";
 
 const testimonials = [
   {
-    logo: "/Sales-Fortuna-Slider/images/SereneLovongLogo.png",
+    logo: "/Sales-Fortuna-Slider/images/serene-lovong-logo.png",
     text: "Sales Fortuna made managing sales easier and helped us focus on customers. Its tools have been crucial for our growth and client satisfaction.",
-    personPhoto: "/Sales-Fortuna-Slider/images/Ethan Morgan.png",
+    personPhoto: "/Sales-Fortuna-Slider/images/ethan-morgan.png",
     personName: "Ethan Morgan",
     position: "Founder and CEO, Serene Living Products",
   },
   {
-    logo: "/Sales-Fortuna-Slider/images/Starlight Creations Logo.png",
+    logo: "/Sales-Fortuna-Slider/images/starlight-creations-logo.png",
     text: "Sales Fortuna has made sales so much easier for us. It saves time, simplifies the whole process, and helps us land more deals without extra hassle.",
-    personPhoto: "/Sales-Fortuna-Slider/images/Olivia Hayes.png",
+    personPhoto: "/Sales-Fortuna-Slider/images/olivia-hayes.png",
     personName: "Olivia Hayes",
     position: "Owner, Starlight Creations",
   },
   {
-    logo: "/Sales-Fortuna-Slider/images/Opulent Living Group Logo.png",
+    logo: "/Sales-Fortuna-Slider/images/opulent-living-group-logo.png",
     text: "Sales Fortuna has simplified our lead generation, helping us attract qualified prospects effortlessly and drive consistent growth.",
-    personPhoto: "/Sales-Fortuna-Slider/images/Alexander Reed.png",
+    personPhoto: "/Sales-Fortuna-Slider/images/alexander-reed.png",
     personName: "Alexander Reed",
     position: "Co-Founder, Opulent Living Group",
   },
